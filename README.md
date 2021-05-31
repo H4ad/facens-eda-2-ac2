@@ -1,5 +1,11 @@
 # Trabalho de AC2
 
+Nesse repositório contém a apresentação, logo abaixo, o código fonte da apresentação que pode ser encontrada em [slides.md](./slides.md) e a implementação em Python em [ac2.py](./ac2.py).
+
+## Apresentação
+
+https://user-images.githubusercontent.com/12551007/120124871-b8815d00-c18c-11eb-8a85-3d20e6ea4e88.mp4
+
 ## Grupo
 
 - Vinícius Lourenço Claro Cardoso (180618)
